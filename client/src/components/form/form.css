@@ -1,0 +1,101 @@
+.step1Container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #e6fafc;
+}
+.step1Color {
+  background-color: #e6fafc;
+  min-height: 42vh;
+}
+.step1 {
+  width: 60%;
+  align-items: center;
+}
+h3 {
+  color: #2374ab;
+}
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.stepper {
+  width: 70%;
+}
+.stepperContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e6fafc;
+}
+.stepperContainerNoBackground {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonContainer {
+  background-color: #e6fafc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonContainerNoBackground {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonStyle {
+  border-radius: 25px;
+}
+.step3Backgound {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.step3Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.step3Form {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #e6fafc;
+}
+.step3 {
+  display: flex;
+  justify-content: center;
+  align-items: left;
+}
+.step3Paragraph {
+  width: 50%;
+}
+.scheduleSelect {
+  display: flex;
+  justify-content: space-around;
+}
+
+.step5 {
+  display: flex;
+  background-color: #e6fafc;
+  align-items: center;
+  flex-direction: column;
+  min-height: 62vh;
+}
+.step5Verification {
+  display: flex;
+  width: 50%;
+  align-items: left;
+  flex-direction: column;
+}
